@@ -52,8 +52,9 @@
   <project path="packages/providers/DataUsageProvider" name="LineageOS/android_packages_providers_DataUsageProvider" />
   <project path="packages/providers/WeatherProvider" name="LineageOS/android_packages_providers_WeatherProvider" />
   <project path="packages/services/CMAudioService" name="LineageOS/android_packages_services_CMAudioService" />
-  <project path="packages/services/WeatherService" name="LineageOS/android_packages_services_WeatherService" />
-  <project path="prebuilts/cmsdk" name="LineageOS/android_prebuilts_cmsdk" clone-depth="1" />
+  <project path="packages/services/WeatherService" name="LineageOS/android_packages_services_WeatherService" />-->
+  <project path="packages/services/OmniJaws" name="BoulzorROM/android_packages_services_OmniJaws" remote="bzr" />
+  <!--<project path="prebuilts/cmsdk" name="LineageOS/android_prebuilts_cmsdk" clone-depth="1" />
   <project path="system/extras/su" name="LineageOS/android_system_extras_su" />-->
   <project path="vendor/lineage" name="LineageOS/android_vendor_lineage" />
   <!--<project path="vendor/cmsdk" name="LineageOS/cm_platform_sdk" />
@@ -130,4 +131,6 @@
   <!-- Tools -->
   <project path="lineage/contributors-cloud-generator" name="LineageOS/contributors-cloud-generator" groups="tools" revision="master" />
   <project path="lineage/scripts" name="LineageOS/scripts" groups="tools" revision="master" />
+
+
 </manifest>
