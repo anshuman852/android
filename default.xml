@@ -13,6 +13,10 @@
            review="android-review.googlesource.com"
            revision="refs/tags/android-8.0.0_r3" />
 
+  <remote  name="bzr"
+           fetch="https://github.com"
+           revision="lineage-15.0" />
+
   <default revision="refs/heads/lineage-15.0"
            remote="github"
            sync-c="true"
