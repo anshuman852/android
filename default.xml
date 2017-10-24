@@ -327,7 +327,7 @@
   <project path="external/zxing" name="platform/external/zxing" groups="pdk" remote="aosp" />
   <project path="frameworks/av" name="BoulzorROM/android_frameworks_av" groups="pdk" remote="bzr" />
   <project path="frameworks/base" name="BoulzorROM/android_frameworks_base" groups="pdk-cw-fs,pdk-fs" remote="bzr" />
-  <project path="frameworks/compile/libbcc" name="platform/frameworks/compile/libbcc" groups="pdk" remote="aosp" />
+  <project path="frameworks/compile/libbcc" name="BoulzorROM/android_frameworks_compile_libbcc" groups="pdk" remote="bzr" />
   <project path="frameworks/compile/mclinker" name="platform/frameworks/compile/mclinker" groups="pdk" remote="aosp" />
   <project path="frameworks/compile/slang" name="platform/frameworks/compile/slang" groups="pdk" remote="aosp" />
   <project path="frameworks/data-binding" name="platform/frameworks/data-binding" groups="pdk-cw-fs,pdk-fs" remote="aosp" />
