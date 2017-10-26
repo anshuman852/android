@@ -61,6 +61,7 @@
   <project path="packages/services/ThemeInterfacer" name="MSF-Jarvis/interfacer" remote="bzr" revision="n-rootless" />
   <project path="packages/services/OmniJaws" name="BoulzorROM/android_packages_services_OmniJaws" remote="bzr" />
   <project path="packages/apps/OmniStyle" name="BoulzorROM/android_packages_apps_OmniStyle" remote="bzr" />
+  <project path="packages/apps/OmniSwitch" name="BoulzorROM/android_packages_apps_OmniSwitch" remote="bzr" />
   <!--<project path="prebuilts/cmsdk" name="LineageOS/android_prebuilts_cmsdk" clone-depth="1" />
   <project path="system/extras/su" name="LineageOS/android_system_extras_su" />-->
   <project path="vendor/lineage" name="BoulzorROM/android_vendor_lineage" remote="bzr" />
